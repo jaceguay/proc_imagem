@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Imagens 13.12 - 50 metros - pessoas na água, praia</folder>
+	<filename>DJI_0128.JPG</filename>
+	<path>C:\Users\Usuario\Desktop\PROJETO FAPESC\IMAGENS DRONE\Dezembro\Imagens 13.12 - 50 metros - pessoas na água, praia\DJI_0128.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>swim top</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4758</xmin>
+			<ymin>492</ymin>
+			<xmax>4844</xmax>
+			<ymax>554</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>swim top</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4781</xmin>
+			<ymin>481</ymin>
+			<xmax>4828</xmax>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>swim top</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5036</xmin>
+			<ymin>729</ymin>
+			<xmax>5097</xmax>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>swim top</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>651</ymin>
+			<xmax>86</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+</annotation>
