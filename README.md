@@ -4,11 +4,20 @@
 
 O objetivo deste repositório é apresentar um conjunto de ferramentas que podem ser utilizadas para a o sensoriamento de espaços urbanos e a análise de dados, para subsidiar o processo de projeto, incluíndo a geração de algoritmos para a geração propostas alternativas.
 
+## Ferramentas
+
+[label-studio](https://labelstud.io) - Instalação complicada
+[labelme](https://github.com/wkentaro/labelme) - Instalação simples
+
 ## Estudos
 
 ### Segmentar utilizando o espaço de cores (HSV), biblioteca OpenCV
 
-[Notebook](1_estudo_segmentar_cores/seg.ipynb)
+[Máscaras areia e vegetação](1_estudo_segmentar_cores/seg.ipynb)
+
+### Criar arquivos de anotação para o label-studio (xml)
+
+[utilizar segment anything, caixas delimitadoras automaticamente](2_estudo_sam/teste_sam_nb.ipynb)
 
 ## Referências
 
