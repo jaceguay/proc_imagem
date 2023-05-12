@@ -22,3 +22,5 @@ O objetivo deste repositório é apresentar um conjunto de ferramentas que podem
 ## Referências
 
 [How to Study Public Life: Methods in Urban Design - Jan Gehl, Birgitte Svarre](0_referencias/How%20to%20Study%20Public%20Life%20-%20Jan%20Gehl.md)
+
+[Digital Consortium Lecture - Performance Based Digital Design Methodologies - Roland Snooks](https://youtu.be/RndqevGWPnU)
