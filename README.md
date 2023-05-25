@@ -9,6 +9,10 @@ O objetivo deste repositório é apresentar um conjunto de ferramentas que podem
 [label-studio](https://labelstud.io) - Instalação complicada
 [labelme](https://github.com/wkentaro/labelme) - Instalação simples
 
+## Apresentações
+
+[Playground](https://docs.google.com/presentation/d/1ytG8ecM9jK4Kpza1CVV3GgFpdyVsDMfuuXCKvL4Mq9o/edit?usp=sharing)
+
 ## Estudos
 
 ### Segmentar utilizando o espaço de cores (HSV), biblioteca OpenCV
