@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Folder><name>nova_camada_de_rascunho</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-48.6295026617061,-26.9401967104014 -48.6295026617061,-26.932138629051 -48.6255837041094,-26.932138629051 -48.6255837041094,-26.9401967104014 -48.6295026617061,-26.9401967104014</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-48.6305594592602,-26.9480786588261 -48.6305594592602,-26.9401967104014 -48.6269047010521,-26.9401967104014 -48.6269047010521,-26.9480786588261 -48.6305594592602,-26.9480786588261</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-48.6311759245002,-26.9542433112254 -48.6311759245002,-26.9480786588261 -48.6277853656806,-26.9480786588261 -48.6277853656806,-26.9542433112254 -48.6311759245002,-26.9542433112254</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-48.6303833263345,-26.9608042627074 -48.6303833263345,-26.9542433112254 -48.6265524352007,-26.9542433112254 -48.6265524352007,-26.9608042627074 -48.6303833263345,-26.9608042627074</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
